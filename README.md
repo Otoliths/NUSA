@@ -16,4 +16,4 @@ https://github.com/zhangab2020/MMNet.
 
 ### How to cite this paper
 
-Ding, L.Y., Tao J, Tang, B.L., Sun, J.R., Ding, C.Z., He, D.M. (2023) Anguillids in the upper Nu-Salween River: species composition, distributions, natal sources and conservation implications. *Marine and Freshwater Research*. https://doi.org/10.1071/MF22265
+Ding, L.Y., Tao J, Tang, B.L., Sun, J.R., Ding, C.Z., He, D.M. (2023) Anguillids in the upper Nu–Salween River, South-East Asia: species composition, distributions, natal sources and conservation implications. *Marine and Freshwater Research*. https://doi.org/10.1071/MF22265

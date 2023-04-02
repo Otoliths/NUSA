@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/DOI-10.1071/MF22265-blue.svg)](https://doi.org/10.1071/MF22265)
 
 ### Online Short Summary
-River fragmentation threatens Indo-Pacific anguillid eels, which are ecologically and commercially importantspecies. The free-flowing large river, the Nu–Salween River, may be their last remaining habitat. We adopted anintegrative taxonomy to successfully identify three eel species collected in the upper reach from 2017 to 2021.
+River fragmentation threatens Indo-Pacific anguillid eels, which are ecologically and commercially important species. The free-flowing large river, the Nu–Salween River, may be their last remaining habitat. We adopted anintegrative taxonomy to successfully identify three eel species collected in the upper reach from 2017 to 2021.
 *A. bengalensis* has the widest distribution range, whereas *A. bicolor* and *A. marmorata* have narrower ranges, but are new to this area. Climate change and anthropogenic disruptions may have caused the three eels toexpand upstream.
 
 ### Abstract
